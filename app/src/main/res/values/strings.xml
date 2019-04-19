@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">地推</string>
+    <string name="cancel">取消</string>
+    <string name="empty">--</string>
+</resources>

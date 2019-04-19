@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+
+            <corners android:radius="10dp" />
+            <!-- 圆角，你也可以对不同的角设置不同的数值 -->
+
+            <solid android:color="@color/colorOnClick" />
+            <!-- 形状的填充色 -->
+
+        </shape>
+    </item>
+    <item>
+        <shape>
+
+            <corners android:radius="10dp" />
+            <!-- 圆角，你也可以对不同的角设置不同的数值 -->
+
+            <solid android:color="@android:color/white" />
+            <!-- 形状的填充色 -->
+        </shape>
+    </item>
+</selector>

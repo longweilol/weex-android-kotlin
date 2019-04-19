@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0056d3</color>
+    <color name="colorPrimaryDark">#0056d3</color>
+    <color name="colorAccent">#0056d3</color>
+
+    <!--颜色设置-->
+    <color name="colorTitle">#655b22</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackB">#424242</color>
+    <color name="colorBlackM">#4d4d4d</color>
+    <color name="colorBlackS">#808080</color>
+
+    <color name="colorGray">#b3b3b3</color>
+    <color name="titleGray">#999999</color>
+    <color name="colorRecomLine">#c2c2c4</color>
+    <color name="colorExName">#808080</color>
+    <color name="colorQuote">#666666</color>
+    <color name="colorBg">#f3f3f5</color>
+    <color name="colorMainLine">#e8eaef</color>
+    <color name="colorOnClick">#f1f1f1</color>
+    <color name="colorUp">#d95040</color>
+    <color name="colorDown">#57a65c</color>
+    <color name="segmentColor">#655b22</color>
+    <color name="colorBgRight">#d8d8d8</color>
+    <color name="colorDelete">#d95040</color>
+    <color name="circleGreenOn">#57a65c</color>
+    <color name="circleGreenOff">#82d184</color>
+    <color name="circleRedOn">#d95040</color>
+    <color name="circleRedOff">#efa5a3</color>
+    <color name="colorBlue">#36a0ff</color>
+    <color name="colorShareBg">#dedede</color>
+    <color name="colorShareTitle">#898989</color>
+    <color name="colorBlackBg">#30000000</color>
+    <color name="colorCandyBg">#70000000</color>
+    <color name="colorBlueText">#0079ff</color>
+    <color name="colorAddText">#8a8a8a</color>
+
+    <color name="colorExIndex">#5b6c7d</color>
+    <color name="colorExCount">#914c00</color>
+    <color name="colorAlphaExCount">#70914c00</color>
+    <color name="colorPieChartOne">#eca958</color>
+    <color name="colorPieChartTwo">#e56788</color>
+    <color name="colorPieChartThree">#6f8df8</color>
+    <color name="colorPieChartFour">#6fc121</color>
+    <color name="colorPieChartDefault">#655b22</color>
+
+    <color name="colorStarYellow">#ff830f</color>
+    <color name="colorCircleBg">#50424242</color>
+    <color name="colorItemHeader">#f5f5f5</color>
+</resources>

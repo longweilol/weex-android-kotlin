@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_btn_size">40dp</dimen>
+    <dimen name="share_logo_size">50dp</dimen>
+    <dimen name="font_b">18sp</dimen>
+    <dimen name="font_bm">16sp</dimen>
+    <dimen name="font_m">14sp</dimen>
+    <dimen name="font_ms">12sp</dimen>
+    <dimen name="font_s">10sp</dimen>
+</resources>
